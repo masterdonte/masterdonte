@@ -3,6 +3,7 @@
 - 🔭 I’m currently doing an exchange in Ireland
 - 🐍 I’m currently learning Python and React
 - ⚡ Fun fact: I'm fascinated by astronomy
+
 ![Jonathas's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterdonte&show_icons=true&theme=radical)
 
 <!--
